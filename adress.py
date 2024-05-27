@@ -1,0 +1,7 @@
+n = input()
+a = input()
+p = input()
+print("Address")
+print("House Number:",n)
+print("Area:",a)
+print("Pin Code:",p)
